@@ -1,6 +1,6 @@
 # Animal Cards
 
-This project is displaying images of animals pull from Unplash.
+This app is for displaying images of animals pull from Unplash.
 
 ## Technologies used
 
