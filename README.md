@@ -1,4 +1,4 @@
-# Project title
+# Animal Cards
 
 This project is displaying images of animals pull from Unplash.
 
