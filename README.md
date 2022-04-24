@@ -9,5 +9,5 @@ Built with:
 - HTML
 - JS
 - CSS
-- Reactjs 
+- React.js 
 
